@@ -1,0 +1,4 @@
+One from the archives
+
+I wanted to switch from Spotify to Google Play Music (GPM). Spotify was like $10/month and so was GPM but GPM also came with YouTube Red. I haven't watched a YouTube ad in at least a year and it has been great (soon to be gone though for YouTube Music... I don't know how I feel about that). There were a couple playlists in Spotify I wanted to keep though, and make its equivalent in GPM assuming GPM had the songs. So this script will require you download the entirety of a Spotify playlist's
+HTML. Go to the Spotify website, open up the playlist, and scroll down until you have all your songs scrollable. Download the source of that page. Then use this script (populate the `.conf` file) to let it read the songs and connect to GPM, search for the song, and put it in a new playlist!
